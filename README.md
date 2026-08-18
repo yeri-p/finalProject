@@ -79,7 +79,7 @@
 
 | 이름 | GitHub | 역할 |
 | :--: | :--: | :--: |
-| 박예리 | [<img src="https://github.com/yeri-p.png" width="42"/><br/>@yeri-p](https://github.com/yeri-p) | 전체 디렉팅 및 기획 / 보건실, 미술실, 쓰레기장, 복도, 옥상 스프라이트 및 이벤트 |
-| 양현주 | [<img src="https://github.com/Y-Seo-I.png" width="42"/><br/>@Y-Seo-I](https://github.com/Y-Seo-I) | 교무실, 화장실, 미술실, 창고, 복도, 옥상 스프라이트 및 이벤트 / 게임 내 일러스트 |
+| 박예리 | [<img src="https://github.com/yeri-p.png" width="42"/><br/>@yeri-p](https://github.com/yeri-p) | 교무실, 화장실, 미술실, 창고, 복도, 옥상 스프라이트 및 이벤트 / 게임 내 일러스트 |
+| 양현주 | [<img src="https://github.com/Y-Seo-I.png" width="42"/><br/>@Y-Seo-I](https://github.com/Y-Seo-I) | 전체 디렉팅 및 기획 / 보건실, 미술실, 쓰레기장, 복도, 옥상 스프라이트 및 이벤트 |
 | 이정훈 | [<img src="https://github.com/Leejunghoon1165.png" width="42"/><br/>@Leejunghoon1165](https://github.com/Leejunghoon1165) | 교실, 과학실, 운동장 스프라이트 및 이벤트 |
 
